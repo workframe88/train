@@ -1,0 +1,7 @@
+opacity:0; = ความโปร่งใส
+
+transition : all 0.5s = อนิเมชั่นจางเข้า
+
+overflow-x:hidden = ถ้าส่วนประกอบเกินแกน X จะซ่อน
+
+transform: translateX(100%); = ย้ายส่วนไปด้านขวา
