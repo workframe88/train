@@ -134,7 +134,7 @@
           justify-content: center;
           flex-direction: column;
           opacity: 1;
-          transition: all 0.5s;
+          transition: all 0.5s ease-in;
 
           visibility: hidden;
           pointer-events: auto;
@@ -157,8 +157,12 @@
         .main-nav .button2 {
           display: block;
         }
+
         .main-nav .button1 {
           display: none;
+        }
+        .back .main-nav {
+          transform: translateX(0%);
         }
       }
 
@@ -182,10 +186,12 @@
         <div class="p"></div>
       </div>
     </center>
-    <nav class="main-nav">
-      <h1>Hello World</h1>
-      <h3>i'm Frame</h3>
-    </nav>
+    <div class="back">
+      <nav class="main-nav">
+        <h1>Hello World</h1>
+        <h3>i'm Frame</h3>
+      </nav>
+    </div>
     <button class="button1"><ion-icon name="menu-outline"></ion-icon></button>
     <button class="button2"><ion-icon name="close-outline"></ion-icon></button>
   </body>
