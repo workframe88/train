@@ -1,0 +1,15 @@
+E:\train\C#1\for_loop\for_loop\bin\Debug\net7.0\for_loop.exe
+E:\train\C#1\for_loop\for_loop\bin\Debug\net7.0\for_loop.deps.json
+E:\train\C#1\for_loop\for_loop\bin\Debug\net7.0\for_loop.runtimeconfig.json
+E:\train\C#1\for_loop\for_loop\bin\Debug\net7.0\for_loop.dll
+E:\train\C#1\for_loop\for_loop\bin\Debug\net7.0\for_loop.pdb
+E:\train\C#1\for_loop\for_loop\obj\Debug\net7.0\for_loop.csproj.AssemblyReference.cache
+E:\train\C#1\for_loop\for_loop\obj\Debug\net7.0\for_loop.GeneratedMSBuildEditorConfig.editorconfig
+E:\train\C#1\for_loop\for_loop\obj\Debug\net7.0\for_loop.AssemblyInfoInputs.cache
+E:\train\C#1\for_loop\for_loop\obj\Debug\net7.0\for_loop.AssemblyInfo.cs
+E:\train\C#1\for_loop\for_loop\obj\Debug\net7.0\for_loop.csproj.CoreCompileInputs.cache
+E:\train\C#1\for_loop\for_loop\obj\Debug\net7.0\for_loop.dll
+E:\train\C#1\for_loop\for_loop\obj\Debug\net7.0\refint\for_loop.dll
+E:\train\C#1\for_loop\for_loop\obj\Debug\net7.0\for_loop.pdb
+E:\train\C#1\for_loop\for_loop\obj\Debug\net7.0\for_loop.genruntimeconfig.cache
+E:\train\C#1\for_loop\for_loop\obj\Debug\net7.0\ref\for_loop.dll

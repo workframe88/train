@@ -1,0 +1,1 @@
+import { TimedLogger, Logger } from './extends'

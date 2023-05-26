@@ -1,0 +1,15 @@
+E:\train\C#1\Procedural\Procedural\bin\Debug\net7.0\Procedural.exe
+E:\train\C#1\Procedural\Procedural\bin\Debug\net7.0\Procedural.deps.json
+E:\train\C#1\Procedural\Procedural\bin\Debug\net7.0\Procedural.runtimeconfig.json
+E:\train\C#1\Procedural\Procedural\bin\Debug\net7.0\Procedural.dll
+E:\train\C#1\Procedural\Procedural\bin\Debug\net7.0\Procedural.pdb
+E:\train\C#1\Procedural\Procedural\obj\Debug\net7.0\Procedural.csproj.AssemblyReference.cache
+E:\train\C#1\Procedural\Procedural\obj\Debug\net7.0\Procedural.GeneratedMSBuildEditorConfig.editorconfig
+E:\train\C#1\Procedural\Procedural\obj\Debug\net7.0\Procedural.AssemblyInfoInputs.cache
+E:\train\C#1\Procedural\Procedural\obj\Debug\net7.0\Procedural.AssemblyInfo.cs
+E:\train\C#1\Procedural\Procedural\obj\Debug\net7.0\Procedural.csproj.CoreCompileInputs.cache
+E:\train\C#1\Procedural\Procedural\obj\Debug\net7.0\Procedural.dll
+E:\train\C#1\Procedural\Procedural\obj\Debug\net7.0\refint\Procedural.dll
+E:\train\C#1\Procedural\Procedural\obj\Debug\net7.0\Procedural.pdb
+E:\train\C#1\Procedural\Procedural\obj\Debug\net7.0\Procedural.genruntimeconfig.cache
+E:\train\C#1\Procedural\Procedural\obj\Debug\net7.0\ref\Procedural.dll

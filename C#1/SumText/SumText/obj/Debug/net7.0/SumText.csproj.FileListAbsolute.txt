@@ -1,0 +1,15 @@
+E:\train\C#1\SumText\SumText\obj\Debug\net7.0\SumText.csproj.AssemblyReference.cache
+E:\train\C#1\SumText\SumText\obj\Debug\net7.0\SumText.GeneratedMSBuildEditorConfig.editorconfig
+E:\train\C#1\SumText\SumText\obj\Debug\net7.0\SumText.AssemblyInfoInputs.cache
+E:\train\C#1\SumText\SumText\obj\Debug\net7.0\SumText.AssemblyInfo.cs
+E:\train\C#1\SumText\SumText\obj\Debug\net7.0\SumText.csproj.CoreCompileInputs.cache
+E:\train\C#1\SumText\SumText\bin\Debug\net7.0\SumText.exe
+E:\train\C#1\SumText\SumText\bin\Debug\net7.0\SumText.deps.json
+E:\train\C#1\SumText\SumText\bin\Debug\net7.0\SumText.runtimeconfig.json
+E:\train\C#1\SumText\SumText\bin\Debug\net7.0\SumText.dll
+E:\train\C#1\SumText\SumText\bin\Debug\net7.0\SumText.pdb
+E:\train\C#1\SumText\SumText\obj\Debug\net7.0\SumText.dll
+E:\train\C#1\SumText\SumText\obj\Debug\net7.0\refint\SumText.dll
+E:\train\C#1\SumText\SumText\obj\Debug\net7.0\SumText.pdb
+E:\train\C#1\SumText\SumText\obj\Debug\net7.0\SumText.genruntimeconfig.cache
+E:\train\C#1\SumText\SumText\obj\Debug\net7.0\ref\SumText.dll

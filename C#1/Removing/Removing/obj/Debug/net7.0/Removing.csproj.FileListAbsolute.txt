@@ -1,0 +1,15 @@
+E:\train\C#1\Removing\Removing\bin\Debug\net7.0\Removing.exe
+E:\train\C#1\Removing\Removing\bin\Debug\net7.0\Removing.deps.json
+E:\train\C#1\Removing\Removing\bin\Debug\net7.0\Removing.runtimeconfig.json
+E:\train\C#1\Removing\Removing\bin\Debug\net7.0\Removing.dll
+E:\train\C#1\Removing\Removing\bin\Debug\net7.0\Removing.pdb
+E:\train\C#1\Removing\Removing\obj\Debug\net7.0\Removing.csproj.AssemblyReference.cache
+E:\train\C#1\Removing\Removing\obj\Debug\net7.0\Removing.GeneratedMSBuildEditorConfig.editorconfig
+E:\train\C#1\Removing\Removing\obj\Debug\net7.0\Removing.AssemblyInfoInputs.cache
+E:\train\C#1\Removing\Removing\obj\Debug\net7.0\Removing.AssemblyInfo.cs
+E:\train\C#1\Removing\Removing\obj\Debug\net7.0\Removing.csproj.CoreCompileInputs.cache
+E:\train\C#1\Removing\Removing\obj\Debug\net7.0\Removing.dll
+E:\train\C#1\Removing\Removing\obj\Debug\net7.0\refint\Removing.dll
+E:\train\C#1\Removing\Removing\obj\Debug\net7.0\Removing.pdb
+E:\train\C#1\Removing\Removing\obj\Debug\net7.0\Removing.genruntimeconfig.cache
+E:\train\C#1\Removing\Removing\obj\Debug\net7.0\ref\Removing.dll

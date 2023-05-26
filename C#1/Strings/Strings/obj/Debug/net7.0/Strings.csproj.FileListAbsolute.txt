@@ -1,0 +1,15 @@
+E:\train\C#1\Strings\Strings\bin\Debug\net7.0\Strings.exe
+E:\train\C#1\Strings\Strings\bin\Debug\net7.0\Strings.deps.json
+E:\train\C#1\Strings\Strings\bin\Debug\net7.0\Strings.runtimeconfig.json
+E:\train\C#1\Strings\Strings\bin\Debug\net7.0\Strings.dll
+E:\train\C#1\Strings\Strings\bin\Debug\net7.0\Strings.pdb
+E:\train\C#1\Strings\Strings\obj\Debug\net7.0\Strings.csproj.AssemblyReference.cache
+E:\train\C#1\Strings\Strings\obj\Debug\net7.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+E:\train\C#1\Strings\Strings\obj\Debug\net7.0\Strings.AssemblyInfoInputs.cache
+E:\train\C#1\Strings\Strings\obj\Debug\net7.0\Strings.AssemblyInfo.cs
+E:\train\C#1\Strings\Strings\obj\Debug\net7.0\Strings.csproj.CoreCompileInputs.cache
+E:\train\C#1\Strings\Strings\obj\Debug\net7.0\Strings.dll
+E:\train\C#1\Strings\Strings\obj\Debug\net7.0\refint\Strings.dll
+E:\train\C#1\Strings\Strings\obj\Debug\net7.0\Strings.pdb
+E:\train\C#1\Strings\Strings\obj\Debug\net7.0\Strings.genruntimeconfig.cache
+E:\train\C#1\Strings\Strings\obj\Debug\net7.0\ref\Strings.dll

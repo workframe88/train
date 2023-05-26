@@ -1,0 +1,13 @@
+C:\Projects\CSharpIntermediate\CSharpIntermediate\bin\Debug\CSharpIntermediate.exe.config
+C:\Projects\CSharpIntermediate\CSharpIntermediate\bin\Debug\CSharpIntermediate.exe
+C:\Projects\CSharpIntermediate\CSharpIntermediate\bin\Debug\CSharpIntermediate.pdb
+C:\Projects\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.csprojResolveAssemblyReference.cache
+C:\Projects\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.exe
+C:\Projects\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.pdb
+E:\train\CSharpIntermediate\CSharpIntermediate\CSharpIntermediate\bin\Debug\CSharpIntermediate.exe.config
+E:\train\CSharpIntermediate\CSharpIntermediate\CSharpIntermediate\bin\Debug\CSharpIntermediate.exe
+E:\train\CSharpIntermediate\CSharpIntermediate\CSharpIntermediate\bin\Debug\CSharpIntermediate.pdb
+E:\train\CSharpIntermediate\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.csproj.AssemblyReference.cache
+E:\train\CSharpIntermediate\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.csproj.CoreCompileInputs.cache
+E:\train\CSharpIntermediate\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.exe
+E:\train\CSharpIntermediate\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.pdb

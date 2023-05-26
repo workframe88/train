@@ -1,0 +1,15 @@
+E:\train\C#1\Filelnfo\Filelnfo\bin\Debug\net7.0\Filelnfo.exe
+E:\train\C#1\Filelnfo\Filelnfo\bin\Debug\net7.0\Filelnfo.deps.json
+E:\train\C#1\Filelnfo\Filelnfo\bin\Debug\net7.0\Filelnfo.runtimeconfig.json
+E:\train\C#1\Filelnfo\Filelnfo\bin\Debug\net7.0\Filelnfo.dll
+E:\train\C#1\Filelnfo\Filelnfo\bin\Debug\net7.0\Filelnfo.pdb
+E:\train\C#1\Filelnfo\Filelnfo\obj\Debug\net7.0\Filelnfo.csproj.AssemblyReference.cache
+E:\train\C#1\Filelnfo\Filelnfo\obj\Debug\net7.0\Filelnfo.GeneratedMSBuildEditorConfig.editorconfig
+E:\train\C#1\Filelnfo\Filelnfo\obj\Debug\net7.0\Filelnfo.AssemblyInfoInputs.cache
+E:\train\C#1\Filelnfo\Filelnfo\obj\Debug\net7.0\Filelnfo.AssemblyInfo.cs
+E:\train\C#1\Filelnfo\Filelnfo\obj\Debug\net7.0\Filelnfo.csproj.CoreCompileInputs.cache
+E:\train\C#1\Filelnfo\Filelnfo\obj\Debug\net7.0\Filelnfo.dll
+E:\train\C#1\Filelnfo\Filelnfo\obj\Debug\net7.0\refint\Filelnfo.dll
+E:\train\C#1\Filelnfo\Filelnfo\obj\Debug\net7.0\Filelnfo.pdb
+E:\train\C#1\Filelnfo\Filelnfo\obj\Debug\net7.0\Filelnfo.genruntimeconfig.cache
+E:\train\C#1\Filelnfo\Filelnfo\obj\Debug\net7.0\ref\Filelnfo.dll

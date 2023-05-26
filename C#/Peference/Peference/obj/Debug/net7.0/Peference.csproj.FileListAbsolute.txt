@@ -1,0 +1,15 @@
+E:\train\C#1\Peference\Peference\bin\Debug\net7.0\Peference.exe
+E:\train\C#1\Peference\Peference\bin\Debug\net7.0\Peference.deps.json
+E:\train\C#1\Peference\Peference\bin\Debug\net7.0\Peference.runtimeconfig.json
+E:\train\C#1\Peference\Peference\bin\Debug\net7.0\Peference.dll
+E:\train\C#1\Peference\Peference\bin\Debug\net7.0\Peference.pdb
+E:\train\C#1\Peference\Peference\obj\Debug\net7.0\Peference.csproj.AssemblyReference.cache
+E:\train\C#1\Peference\Peference\obj\Debug\net7.0\Peference.GeneratedMSBuildEditorConfig.editorconfig
+E:\train\C#1\Peference\Peference\obj\Debug\net7.0\Peference.AssemblyInfoInputs.cache
+E:\train\C#1\Peference\Peference\obj\Debug\net7.0\Peference.AssemblyInfo.cs
+E:\train\C#1\Peference\Peference\obj\Debug\net7.0\Peference.csproj.CoreCompileInputs.cache
+E:\train\C#1\Peference\Peference\obj\Debug\net7.0\Peference.dll
+E:\train\C#1\Peference\Peference\obj\Debug\net7.0\refint\Peference.dll
+E:\train\C#1\Peference\Peference\obj\Debug\net7.0\Peference.pdb
+E:\train\C#1\Peference\Peference\obj\Debug\net7.0\Peference.genruntimeconfig.cache
+E:\train\C#1\Peference\Peference\obj\Debug\net7.0\ref\Peference.dll

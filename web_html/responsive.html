@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Responsive</title>
+    <style type="text/css">
+      html {
+        font-size: calc(60% + 0.8vim);
+      }
+
+      @media (max-width: 128em) {
+        html .p {
+          background-color: #f83737;
+          width: 200px;
+          height: 200px;
+        }
+        .container {
+          justify-content: center;
+          display: flex;
+          gap: 10px;
+        }
+
+        .text {
+          margin-top: 0px;
+          font-size: 5rem;
+        }
+        button {
+          display: none;
+        }
+      }
+      @media (max-width: 48em) {
+        html .p {
+          background-color: #f83737;
+          width: 100px;
+          height: 100px;
+        }
+        .container {
+          justify-content: center;
+          display: flex;
+          gap: 10px;
+        }
+        .text {
+          font-size: 20px;
+          margin-top: 0px;
+        }
+        button {
+          display: none;
+        }
+      }
+      @media (max-width: 26em) {
+        html .p {
+          background-color: #f83737;
+          width: 100px;
+          height: 100px;
+        }
+        .container {
+          justify-content: center;
+          display: flex;
+          gap: 10px;
+          flex-direction: column;
+          align-items: center;
+        }
+        .text {
+          margin-top: 0px;
+          font-size: 20px;
+        }
+        button {
+          display: unset;
+          background-color: antiquewhite;
+          width: 50px;
+          height: 50px;
+          cursor: pointer;
+
+          position: absolute;
+          top: 0px;
+          right: 0px;
+        }
+      }
+
+      body {
+        position: relative;
+      }
+    </style>
+  </head>
+  <body>
+    <p class="text">Kowit frame</p>
+
+    <center>
+      <div class="container">
+        <div class="p"></div>
+        <div class="p"></div>
+        <div class="p"></div>
+        <div class="p"></div>
+        <div class="p"></div>
+        <div class="p"></div>
+        <div class="p"></div>
+      </div>
+    </center>
+    <button>test</button>
+  </body>
+</html>

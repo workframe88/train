@@ -1,0 +1,15 @@
+E:\train\C#1\Array\Array\bin\Debug\net7.0\Array.exe
+E:\train\C#1\Array\Array\bin\Debug\net7.0\Array.deps.json
+E:\train\C#1\Array\Array\bin\Debug\net7.0\Array.runtimeconfig.json
+E:\train\C#1\Array\Array\bin\Debug\net7.0\Array.dll
+E:\train\C#1\Array\Array\bin\Debug\net7.0\Array.pdb
+E:\train\C#1\Array\Array\obj\Debug\net7.0\Array.csproj.AssemblyReference.cache
+E:\train\C#1\Array\Array\obj\Debug\net7.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\train\C#1\Array\Array\obj\Debug\net7.0\Array.AssemblyInfoInputs.cache
+E:\train\C#1\Array\Array\obj\Debug\net7.0\Array.AssemblyInfo.cs
+E:\train\C#1\Array\Array\obj\Debug\net7.0\Array.csproj.CoreCompileInputs.cache
+E:\train\C#1\Array\Array\obj\Debug\net7.0\Array.dll
+E:\train\C#1\Array\Array\obj\Debug\net7.0\refint\Array.dll
+E:\train\C#1\Array\Array\obj\Debug\net7.0\Array.pdb
+E:\train\C#1\Array\Array\obj\Debug\net7.0\Array.genruntimeconfig.cache
+E:\train\C#1\Array\Array\obj\Debug\net7.0\ref\Array.dll

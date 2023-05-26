@@ -1,0 +1,13 @@
+C:\Projects\CSharpIntermediate\Section3\Casting\Casting\bin\Debug\Casting.exe.config
+C:\Projects\CSharpIntermediate\Section3\Casting\Casting\bin\Debug\Casting.exe
+C:\Projects\CSharpIntermediate\Section3\Casting\Casting\bin\Debug\Casting.pdb
+C:\Projects\CSharpIntermediate\Section3\Casting\Casting\obj\Debug\Casting.csprojResolveAssemblyReference.cache
+C:\Projects\CSharpIntermediate\Section3\Casting\Casting\obj\Debug\Casting.exe
+C:\Projects\CSharpIntermediate\Section3\Casting\Casting\obj\Debug\Casting.pdb
+E:\train\CSharpIntermediate\CSharpIntermediate\Section3\Casting\Casting\bin\Debug\Casting.exe.config
+E:\train\CSharpIntermediate\CSharpIntermediate\Section3\Casting\Casting\bin\Debug\Casting.exe
+E:\train\CSharpIntermediate\CSharpIntermediate\Section3\Casting\Casting\bin\Debug\Casting.pdb
+E:\train\CSharpIntermediate\CSharpIntermediate\Section3\Casting\Casting\obj\Debug\Casting.csproj.AssemblyReference.cache
+E:\train\CSharpIntermediate\CSharpIntermediate\Section3\Casting\Casting\obj\Debug\Casting.csproj.CoreCompileInputs.cache
+E:\train\CSharpIntermediate\CSharpIntermediate\Section3\Casting\Casting\obj\Debug\Casting.exe
+E:\train\CSharpIntermediate\CSharpIntermediate\Section3\Casting\Casting\obj\Debug\Casting.pdb

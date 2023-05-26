@@ -1,0 +1,15 @@
+E:\train\C#1\Hello World\Hello World\bin\Debug\net7.0\CSharpFundamentals.exe
+E:\train\C#1\Hello World\Hello World\bin\Debug\net7.0\CSharpFundamentals.deps.json
+E:\train\C#1\Hello World\Hello World\bin\Debug\net7.0\CSharpFundamentals.runtimeconfig.json
+E:\train\C#1\Hello World\Hello World\bin\Debug\net7.0\CSharpFundamentals.dll
+E:\train\C#1\Hello World\Hello World\bin\Debug\net7.0\CSharpFundamentals.pdb
+E:\train\C#1\Hello World\Hello World\obj\Debug\net7.0\CSharpFundamentals.csproj.AssemblyReference.cache
+E:\train\C#1\Hello World\Hello World\obj\Debug\net7.0\CSharpFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+E:\train\C#1\Hello World\Hello World\obj\Debug\net7.0\CSharpFundamentals.AssemblyInfoInputs.cache
+E:\train\C#1\Hello World\Hello World\obj\Debug\net7.0\CSharpFundamentals.AssemblyInfo.cs
+E:\train\C#1\Hello World\Hello World\obj\Debug\net7.0\CSharpFundamentals.csproj.CoreCompileInputs.cache
+E:\train\C#1\Hello World\Hello World\obj\Debug\net7.0\CSharpFundamentals.dll
+E:\train\C#1\Hello World\Hello World\obj\Debug\net7.0\refint\CSharpFundamentals.dll
+E:\train\C#1\Hello World\Hello World\obj\Debug\net7.0\CSharpFundamentals.pdb
+E:\train\C#1\Hello World\Hello World\obj\Debug\net7.0\CSharpFundamentals.genruntimeconfig.cache
+E:\train\C#1\Hello World\Hello World\obj\Debug\net7.0\ref\CSharpFundamentals.dll

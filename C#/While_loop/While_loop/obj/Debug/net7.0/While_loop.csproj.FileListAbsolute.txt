@@ -1,0 +1,15 @@
+E:\train\C#1\While_loop\While_loop\bin\Debug\net7.0\While_loop.exe
+E:\train\C#1\While_loop\While_loop\bin\Debug\net7.0\While_loop.deps.json
+E:\train\C#1\While_loop\While_loop\bin\Debug\net7.0\While_loop.runtimeconfig.json
+E:\train\C#1\While_loop\While_loop\bin\Debug\net7.0\While_loop.dll
+E:\train\C#1\While_loop\While_loop\bin\Debug\net7.0\While_loop.pdb
+E:\train\C#1\While_loop\While_loop\obj\Debug\net7.0\While_loop.csproj.AssemblyReference.cache
+E:\train\C#1\While_loop\While_loop\obj\Debug\net7.0\While_loop.GeneratedMSBuildEditorConfig.editorconfig
+E:\train\C#1\While_loop\While_loop\obj\Debug\net7.0\While_loop.AssemblyInfoInputs.cache
+E:\train\C#1\While_loop\While_loop\obj\Debug\net7.0\While_loop.AssemblyInfo.cs
+E:\train\C#1\While_loop\While_loop\obj\Debug\net7.0\While_loop.csproj.CoreCompileInputs.cache
+E:\train\C#1\While_loop\While_loop\obj\Debug\net7.0\While_loop.dll
+E:\train\C#1\While_loop\While_loop\obj\Debug\net7.0\refint\While_loop.dll
+E:\train\C#1\While_loop\While_loop\obj\Debug\net7.0\While_loop.pdb
+E:\train\C#1\While_loop\While_loop\obj\Debug\net7.0\While_loop.genruntimeconfig.cache
+E:\train\C#1\While_loop\While_loop\obj\Debug\net7.0\ref\While_loop.dll

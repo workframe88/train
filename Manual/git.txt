@@ -1,0 +1,131 @@
+pwd = เช็คว่ากำลังอยู่ใน Part อะไร
+
+git config --global user.name "Kowit Thanapruettiwong" 
+สร้าง user.name ชื่อ Kowit Thanapruettiwong
+
+
+git config user.name
+ดูค่าที่อยู่ใน user.name
+
+
+mkdir TestGit
+สร้าง Folder ชื่อ TestGit
+
+
+cd TestGit
+เข้าไปใน Part Folder ชื่อ TestGit
+
+
+touch index.html
+สร้างไฟล์ index.html
+
+
+ls
+ดูไฟล์ทั้งหมดใน Folder
+
+
+vim index.html
+เข้าไปแก้ไขไฟล์ index.html
+
+i = insert
+esc = เขียนเสร็จแล้ว
+:w = เขียนไฟล์
+:q = ออกไฟล์
+
+
+
+rm index.html
+ลบไฟล์ index.html
+
+
+cd ..
+ถอยหลังกลับ 1 Folder
+
+rmdir TestGit
+ลบ Folder TestGit
+
+git status
+ดูสถานะว่าใช้งาน git ในไฟล์ไหนบ้าง
+
+
+git add index.html
+ใช้งาน git ในไฟล์ index.html
+
+
+git rm --cached index.html
+ลบการใช้งาน git ในไฟล์ index.html
+
+
+git add .
+ใช้งาน git กับทุกไฟล์ทั้งหมด
+
+
+git commit -m "Add skeleton files for webpage."
+เพิ่มคอมเมนต์
+
+git log
+ค้นหาว่าใครเป็นเจ้าของ และวันที่เท่าไร สุดท้ายจะแสดงคอมเมนต์ที่เพิ่มมาด้วย
+
+
+git branch
+ดูว่ามี branch user ไหนบ้าง
+
+git branch user-authentication
+สร้าง branch ชื่อ user-authentication
+
+
+git checkout user-authentication
+เลือกใช้งาน user-authentication
+
+git diff index.html
+
+git diff
+
+
+git init
+
+clear
+
+
+git merge user-authentication
+
+
+git tag -a v1.0.0 -m "Version 1.0.0 release"
+
+
+-----------------Bitbucket--------------------
+git push origin master
+ใส่ข้อมูลทั้งหมด
+
+git pull
+ดึงข้อมูลจากเว็บล่าสุดมาใช้งาน
+
+git fetch
+ดึงข้อมูลคอมไพล์
+
+get merge
+รวมข้อมูล
+
+
+ssh-keygen
+เริ่มสุ่ม สุ่มรหัส ssh
+
+
+clip <~/.ssh/id_rsa.pub (windows)
+pbcopy < ~/.ssh/id_rsa.pub (mac)
+cat <~/.ssh/id_rsa.pub (linux)
+ทำการสุ่มรหัส ssh
+
+
+
+ssh -T git@bitbucket.org
+
+
+git remote add origin ตามด้วย URL
+
+
+
+
+
+50
+

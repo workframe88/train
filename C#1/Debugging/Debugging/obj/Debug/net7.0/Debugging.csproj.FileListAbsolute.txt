@@ -1,0 +1,15 @@
+E:\train\C#1\Debugging\Debugging\bin\Debug\net7.0\Debugging.exe
+E:\train\C#1\Debugging\Debugging\bin\Debug\net7.0\Debugging.deps.json
+E:\train\C#1\Debugging\Debugging\bin\Debug\net7.0\Debugging.runtimeconfig.json
+E:\train\C#1\Debugging\Debugging\bin\Debug\net7.0\Debugging.dll
+E:\train\C#1\Debugging\Debugging\bin\Debug\net7.0\Debugging.pdb
+E:\train\C#1\Debugging\Debugging\obj\Debug\net7.0\Debugging.csproj.AssemblyReference.cache
+E:\train\C#1\Debugging\Debugging\obj\Debug\net7.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+E:\train\C#1\Debugging\Debugging\obj\Debug\net7.0\Debugging.AssemblyInfoInputs.cache
+E:\train\C#1\Debugging\Debugging\obj\Debug\net7.0\Debugging.AssemblyInfo.cs
+E:\train\C#1\Debugging\Debugging\obj\Debug\net7.0\Debugging.csproj.CoreCompileInputs.cache
+E:\train\C#1\Debugging\Debugging\obj\Debug\net7.0\Debugging.dll
+E:\train\C#1\Debugging\Debugging\obj\Debug\net7.0\refint\Debugging.dll
+E:\train\C#1\Debugging\Debugging\obj\Debug\net7.0\Debugging.pdb
+E:\train\C#1\Debugging\Debugging\obj\Debug\net7.0\Debugging.genruntimeconfig.cache
+E:\train\C#1\Debugging\Debugging\obj\Debug\net7.0\ref\Debugging.dll

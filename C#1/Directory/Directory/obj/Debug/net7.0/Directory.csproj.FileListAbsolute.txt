@@ -1,0 +1,15 @@
+E:\train\C#1\Directory\Directory\bin\Debug\net7.0\Directory.exe
+E:\train\C#1\Directory\Directory\bin\Debug\net7.0\Directory.deps.json
+E:\train\C#1\Directory\Directory\bin\Debug\net7.0\Directory.runtimeconfig.json
+E:\train\C#1\Directory\Directory\bin\Debug\net7.0\Directory.dll
+E:\train\C#1\Directory\Directory\bin\Debug\net7.0\Directory.pdb
+E:\train\C#1\Directory\Directory\obj\Debug\net7.0\Directory.csproj.AssemblyReference.cache
+E:\train\C#1\Directory\Directory\obj\Debug\net7.0\Directory.GeneratedMSBuildEditorConfig.editorconfig
+E:\train\C#1\Directory\Directory\obj\Debug\net7.0\Directory.AssemblyInfoInputs.cache
+E:\train\C#1\Directory\Directory\obj\Debug\net7.0\Directory.AssemblyInfo.cs
+E:\train\C#1\Directory\Directory\obj\Debug\net7.0\Directory.csproj.CoreCompileInputs.cache
+E:\train\C#1\Directory\Directory\obj\Debug\net7.0\Directory.dll
+E:\train\C#1\Directory\Directory\obj\Debug\net7.0\refint\Directory.dll
+E:\train\C#1\Directory\Directory\obj\Debug\net7.0\Directory.pdb
+E:\train\C#1\Directory\Directory\obj\Debug\net7.0\Directory.genruntimeconfig.cache
+E:\train\C#1\Directory\Directory\obj\Debug\net7.0\ref\Directory.dll

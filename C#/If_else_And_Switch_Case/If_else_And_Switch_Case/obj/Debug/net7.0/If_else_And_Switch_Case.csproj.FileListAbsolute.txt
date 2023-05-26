@@ -1,0 +1,15 @@
+E:\train\C#1\If_else_And_Switch_Case\If_else_And_Switch_Case\bin\Debug\net7.0\If_else_And_Switch_Case.exe
+E:\train\C#1\If_else_And_Switch_Case\If_else_And_Switch_Case\bin\Debug\net7.0\If_else_And_Switch_Case.deps.json
+E:\train\C#1\If_else_And_Switch_Case\If_else_And_Switch_Case\bin\Debug\net7.0\If_else_And_Switch_Case.runtimeconfig.json
+E:\train\C#1\If_else_And_Switch_Case\If_else_And_Switch_Case\bin\Debug\net7.0\If_else_And_Switch_Case.dll
+E:\train\C#1\If_else_And_Switch_Case\If_else_And_Switch_Case\bin\Debug\net7.0\If_else_And_Switch_Case.pdb
+E:\train\C#1\If_else_And_Switch_Case\If_else_And_Switch_Case\obj\Debug\net7.0\If_else_And_Switch_Case.csproj.AssemblyReference.cache
+E:\train\C#1\If_else_And_Switch_Case\If_else_And_Switch_Case\obj\Debug\net7.0\If_else_And_Switch_Case.GeneratedMSBuildEditorConfig.editorconfig
+E:\train\C#1\If_else_And_Switch_Case\If_else_And_Switch_Case\obj\Debug\net7.0\If_else_And_Switch_Case.AssemblyInfoInputs.cache
+E:\train\C#1\If_else_And_Switch_Case\If_else_And_Switch_Case\obj\Debug\net7.0\If_else_And_Switch_Case.AssemblyInfo.cs
+E:\train\C#1\If_else_And_Switch_Case\If_else_And_Switch_Case\obj\Debug\net7.0\If_else_And_Switch_Case.csproj.CoreCompileInputs.cache
+E:\train\C#1\If_else_And_Switch_Case\If_else_And_Switch_Case\obj\Debug\net7.0\If_else_And_Switch_Case.dll
+E:\train\C#1\If_else_And_Switch_Case\If_else_And_Switch_Case\obj\Debug\net7.0\refint\If_else_And_Switch_Case.dll
+E:\train\C#1\If_else_And_Switch_Case\If_else_And_Switch_Case\obj\Debug\net7.0\If_else_And_Switch_Case.pdb
+E:\train\C#1\If_else_And_Switch_Case\If_else_And_Switch_Case\obj\Debug\net7.0\If_else_And_Switch_Case.genruntimeconfig.cache
+E:\train\C#1\If_else_And_Switch_Case\If_else_And_Switch_Case\obj\Debug\net7.0\ref\If_else_And_Switch_Case.dll

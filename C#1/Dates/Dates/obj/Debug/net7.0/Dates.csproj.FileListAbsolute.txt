@@ -1,0 +1,15 @@
+E:\train\C#1\Dates\Dates\bin\Debug\net7.0\Dates.exe
+E:\train\C#1\Dates\Dates\bin\Debug\net7.0\Dates.deps.json
+E:\train\C#1\Dates\Dates\bin\Debug\net7.0\Dates.runtimeconfig.json
+E:\train\C#1\Dates\Dates\bin\Debug\net7.0\Dates.dll
+E:\train\C#1\Dates\Dates\bin\Debug\net7.0\Dates.pdb
+E:\train\C#1\Dates\Dates\obj\Debug\net7.0\Dates.csproj.AssemblyReference.cache
+E:\train\C#1\Dates\Dates\obj\Debug\net7.0\Dates.GeneratedMSBuildEditorConfig.editorconfig
+E:\train\C#1\Dates\Dates\obj\Debug\net7.0\Dates.AssemblyInfoInputs.cache
+E:\train\C#1\Dates\Dates\obj\Debug\net7.0\Dates.AssemblyInfo.cs
+E:\train\C#1\Dates\Dates\obj\Debug\net7.0\Dates.csproj.CoreCompileInputs.cache
+E:\train\C#1\Dates\Dates\obj\Debug\net7.0\Dates.dll
+E:\train\C#1\Dates\Dates\obj\Debug\net7.0\refint\Dates.dll
+E:\train\C#1\Dates\Dates\obj\Debug\net7.0\Dates.pdb
+E:\train\C#1\Dates\Dates\obj\Debug\net7.0\Dates.genruntimeconfig.cache
+E:\train\C#1\Dates\Dates\obj\Debug\net7.0\ref\Dates.dll
