@@ -1,0 +1,16 @@
+//-----ฟังก์ชั่น---------
+h1.addEventListener("click", function () {
+  h1.textContent = myName;
+  h1.style.backgroundColor = "red";
+  h1.style.padding = "5rem";
+});
+
+//----เปลี่ยนค่า----------
+const myName = "kowit 123 kowit";
+const h1 = document.querySelector(".name-test");
+
+//-----ทำ สกอเลื่อนสมูท css-------
+scroll-behavior: smooth;
+
+<a href="#footer">footer</a>
+<footer id="footer">

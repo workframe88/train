@@ -3,12 +3,17 @@
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Responsive</title>
+
+    <script defer src="script.js"></script>
+
     <style type="text/css">
       html {
         font-size: calc(60% + 0.8vim);
         overflow-x: hidden;
+        scroll-behavior: smooth;
       }
 
       @media (max-width: 128em) {
@@ -52,9 +57,6 @@
           right: 0px;
           border-radius: 10px;
           border: 0;
-        }
-        .button2 {
-          display: none;
         }
       }
       @media (max-width: 48em) {
@@ -139,30 +141,26 @@
           visibility: hidden;
           pointer-events: auto;
           visibility: visible;
-          transform: translateX(100%);
-        }
-        .button2 {
-          display: unset;
-          background-color: antiquewhite;
-          width: 50px;
-          height: 50px;
-          cursor: pointer;
-
-          position: absolute;
-          top: 0px;
-          right: 0px;
-          border-radius: 10px;
-          border: 0;
-        }
-        .main-nav .button2 {
-          display: block;
+          transform: translateX(0%);
         }
 
         .main-nav .button1 {
-          display: none;
+          display: unset;
         }
         .back .main-nav {
-          transform: translateX(0%);
+          transform: translateX(100%);
+        }
+        .button1 ion-icon[name="menu-outline"] {
+          display: none;
+        }
+        .back ion-icon[name="menu-outline"] {
+          display: unset;
+        }
+        .back ion-icon[name="close-outline"] {
+          display: none;
+        }
+        ion-icon[name="close-outline"] {
+          display: unset;
         }
       }
 
@@ -173,6 +171,9 @@
     </style>
   </head>
   <body>
+    <a href="#footer">footer</a>
+    <h1 class="name-test">test</h1>
+    <br /><br />
     <p class="text">Kowit frame</p>
 
     <center>
@@ -191,9 +192,20 @@
         <h1>Hello World</h1>
         <h3>i'm Frame</h3>
       </nav>
+
+      <button class="button1">
+        <ion-icon name="menu-outline"></ion-icon>
+        <ion-icon name="close-outline"></ion-icon>
+      </button>
     </div>
-    <button class="button1"><ion-icon name="menu-outline"></ion-icon></button>
-    <button class="button2"><ion-icon name="close-outline"></ion-icon></button>
+    <table style="height: 1000px">
+      <tr></tr>
+    </table>
+    <footer id="footer">
+      <p id="author">
+        Coppyright @ <span class="year">2000</span> by Kowit Thanapruettiwong.
+      </p>
+    </footer>
   </body>
   <script
     type="module"
