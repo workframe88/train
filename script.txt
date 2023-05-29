@@ -14,3 +14,9 @@ scroll-behavior: smooth;
 
 <a href="#footer">footer</a>
 <footer id="footer">
+
+//-----สกอเลื่อนสมูท-------
+<script
+    type="module"
+    src="https://unpkg.com/smoothscroll-polyfill@0.4.4/dist/smoothscroll.min.js"
+  ></script>
