@@ -10,3 +10,5 @@ overflow-x:hidden = ถ้าส่วนประกอบเกินแกน
 transform: translateX(100%); = ย้ายส่วนไปด้านขวา
 
 position: relative = เลื่อนแนวตั้ง
+
+backdrop-filter = ฟิลเตอร์
