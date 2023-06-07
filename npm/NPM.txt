@@ -1,0 +1,14 @@
+NPM
+
+โหลด node-v18.16.0-x64 มาก่อน
+
+1.npm install node-sass --save-dev ในแฟ้มที่ต้องการ (พิมพ์ใน cmd)
+ติดตั้งในแฟ้มที่ต้องการใช้งาน npm
+
+2.สร้างแฟ้ม sass และสร้างไฟล์ main.scss ขึ้นมา
+
+3.เข้าไปในไฟล์ package.json แล้วแก้ ใน scripts เป็น
+"compile:sass": "node-sass sass/main.scss css/style.css -w"
+
+4.npm run compile:sass (พิมพ์ใน cmd) และห้ามปิดcmd
+เพราะจะเป็นการแปลงไฟล์ scss เป็นไฟล์ css แบบเรียลไทม์
