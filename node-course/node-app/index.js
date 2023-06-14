@@ -1,4 +1,7 @@
-var lion = require("lion-lib");
-var result = lion.add(1, 2);
+module.exports.add = function (a, b) {
+  return a + b;
+};
 
-console.log(result);
+module.exports.multiply = function (a, b) {
+  return a * b;
+};
