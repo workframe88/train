@@ -1,0 +1,18 @@
+npm i -g npm // install
+npm -g outdated
+npm init --yes
+npm login
+npm publish
+npm i lion-lib
+node index.js
+npm version minor
+npm i express
+code .
+nodemon index.js
+npm i -g nodemon
+set PORT=5000
+npm i joi
+npm i joi@13.1.0
+npm install morgan
+npm install helmet
+set NODE_ENV=production
