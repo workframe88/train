@@ -13,8 +13,9 @@ const courseSchema = new mongoose.Schema({
   isPublic: Boolean,
 });
 
+const Course = mongoose.model("Course", courseSchema);
+
 async function createCourse() {
-  const Course = mongoose.model("Course", courseSchema);
   const course = new Course({
     name: "Kowit Test",
     author: "Frame",
@@ -27,18 +28,11 @@ async function createCourse() {
 }
 
 async function getCourse() {
-  const courses = await Course
-    //.find({price:{ $gte: 10 , $lte: 20 }});
-    //.find({ price: { $in: [10, 15, 20] } })
-    //.find()
-    //.or([{ author: "Frame" }, { isPublished: true }])
-    //.find({ author: /^Frame/ })
-    // .find({ author: /Kowit$/i })
-    // .find({ author: /.*Frame.*/i })
-    .find({ author: "Frame", isPublished: true })
+  const courses = await Course.find({ author: "Frame", isPublic: true })
     .limit(10)
     .sort({ name: 1 })
     .select({ name: 1, tags: 1 });
   console.log(courses);
 }
-createCourse();
+
+getCourse();
